@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"workbench.colorTheme": "1984 - Light",
+		"editor.fontFamily": "\"M PLUS Code Latin\"",
+		"editor.fontLigatures": false
+	}
+}
